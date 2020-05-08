@@ -356,6 +356,24 @@
 ( 320 352 192 ) ( 320 352 -0 ) ( 208 240 -0 ) *waterskip -29.9209 16 -0 0.707107 0.857143
 ( 304 368 -0 ) ( 320 352 -0 ) ( 320 352 192 ) *waterskip -2.15799 15.7876 -0 0.707107 0.861516
 }
+// brush 39
+{
+( -272 608 -16 ) ( -272 609 -16 ) ( -272 608 -15 ) __TB_empty 0 0 0 1 1
+( -272 608 -16 ) ( -272 608 -15 ) ( -271 608 -16 ) __TB_empty 0 0 0 1 1
+( -272 608 -16 ) ( -271 608 -16 ) ( -272 609 -16 ) __TB_empty 0 0 0 1 1
+( -240 672 -0 ) ( -240 673 -0 ) ( -239 672 -0 ) __TB_empty 0 0 0 1 1
+( -240 672 -0 ) ( -239 672 -0 ) ( -240 672 1 ) __TB_empty 0 0 0 1 1
+( -240 672 -0 ) ( -240 672 1 ) ( -240 673 -0 ) __TB_empty 0 0 0 1 1
+}
+// brush 40
+{
+( 592 -1264 112 ) ( 592 -1263 112 ) ( 592 -1264 113 ) __TB_empty -0 -0 -0 1 1
+( 592 -1264 112 ) ( 592 -1264 113 ) ( 593 -1264 112 ) __TB_empty -0 -0 -0 1 1
+( 592 -1264 112 ) ( 593 -1264 112 ) ( 592 -1263 112 ) __TB_empty -0 -0 -0 1 1
+( 608 -1248 128 ) ( 608 -1247 128 ) ( 609 -1248 128 ) __TB_empty -0 -0 -0 1 1
+( 608 -1248 128 ) ( 609 -1248 128 ) ( 608 -1248 129 ) __TB_empty -0 -0 -0 1 1
+( 608 -1248 128 ) ( 608 -1248 129 ) ( 608 -1247 128 ) __TB_empty -0 -0 -0 1 1
+}
 }
 // entity 1
 {
@@ -373,7 +391,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "45"
+"_tb_id" "23"
 // brush 0
 {
 ( -192 224 -64 ) ( -192 224 224 ) ( -144 176 224 ) 128_grey_3 10.6667 -26.6667 -0 1.5 1.5
@@ -465,7 +483,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "46"
+"_tb_id" "24"
 // brush 0
 {
 ( -256 -2912 -112 ) ( -256 -2912 272 ) ( -192 -2976 272 ) 128_grey_3 114.052 -40 -0 1.95 2
@@ -557,7 +575,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "47"
+"_tb_id" "25"
 // brush 0
 {
 ( 976 -2912 -112 ) ( 976 -2912 272 ) ( 1040 -2976 272 ) 128_grey_3 -13.9479 -40 -0 1.95 2
@@ -649,7 +667,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "48"
+"_tb_id" "26"
 // brush 0
 {
 ( 816 -1536 272 ) ( 816 -1536 -112 ) ( 1136 -1216 -112 ) 128_grey_3 -99.2815 -40 -0 1.95 2
@@ -741,7 +759,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "49"
+"_tb_id" "27"
 // brush 0
 {
 ( -1488 -2928 -112 ) ( -1488 -2928 272 ) ( -1424 -2992 272 ) 128_grey_3 122.257 -40 -0 1.95 2
@@ -861,7 +879,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "50"
+"_tb_id" "28"
 // brush 0
 {
 ( 288 656 208 ) ( 288 464 208 ) ( 288 464 -16 ) 128_blue_1 -0 -0 -0 1 1
@@ -939,7 +957,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "51"
+"_tb_id" "29"
 // brush 0
 {
 ( -96 896 -16 ) ( -96 896 208 ) ( -96 848 208 ) 128_blue_1 -80 -0 -0 1 1
@@ -982,7 +1000,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "52"
+"_tb_id" "30"
 // brush 0
 {
 ( 160.80404050710666 263.43145750507625 -16 ) ( 160.80404050710666 263.43145750507625 208 ) ( 194.74516600406093 229.49033200812192 208 ) 128_blue_1 -68.5483 -0 -0 0.707107 1
@@ -1025,7 +1043,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "53"
+"_tb_id" "31"
 // brush 0
 {
 ( 149.49033200812187 861.25483399593918 208 ) ( 285.25483399593884 725.49033200812187 208 ) ( 285.25483399593884 725.49033200812187 -16 ) 128_blue_1 -49.9983 -0 -0 0.707107 1
@@ -1068,7 +1086,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "54"
+"_tb_id" "32"
 // brush 0
 {
 ( -80 240 192 ) ( -80 224 192 ) ( -80 224 -0 ) *waterskip 54.0248 16 -0 1 0.857143
@@ -1083,7 +1101,7 @@
 {
 "classname" "trigger_teleport"
 "target" "Colosseum5"
-"_tb_group" "54"
+"_tb_group" "32"
 // brush 0
 {
 ( -80 256 192 ) ( -80 240 192 ) ( -80 240 -0 ) trigger 38.0248 16 -0 1 0.857143
@@ -1099,8 +1117,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "55"
-"_tb_group" "54"
+"_tb_id" "33"
+"_tb_group" "32"
 // brush 0
 {
 ( -96 272 -16 ) ( -96 272 208 ) ( -96 224 208 ) 128_blue_1 32 -0 -0 1 1
@@ -1143,7 +1161,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "56"
+"_tb_id" "34"
 // brush 0
 {
 ( 544 -1456 160 ) ( 544 -1472 160 ) ( 544 -1472 -32 ) *tele01 22.0248 -21.3333 -0 1 0.857143
@@ -1158,7 +1176,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "56"
+"_tb_group" "34"
 // brush 0
 {
 ( 544 -1440 160 ) ( 544 -1456 160 ) ( 544 -1456 -32 ) trigger 6.02478 -21.3333 -0 1 0.857143
@@ -1174,8 +1192,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "57"
-"_tb_group" "56"
+"_tb_id" "35"
+"_tb_group" "34"
 // brush 0
 {
 ( 528 -1424 -48 ) ( 528 -1424 176 ) ( 528 -1472 176 ) 128_blue_1 -64 -32 -0 1 1
@@ -1218,7 +1236,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "58"
+"_tb_id" "36"
 // brush 0
 {
 ( 1136 -2896 160 ) ( 1136 -2912 160 ) ( 1136 -2912 -32 ) *waterskip -9.9751 -21.3333 -0 1 0.857143
@@ -1233,7 +1251,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "58"
+"_tb_group" "36"
 // brush 0
 {
 ( 1136 -2880 160 ) ( 1136 -2896 160 ) ( 1136 -2896 -32 ) trigger -25.9751 -21.3333 -0 1 0.857143
@@ -1249,8 +1267,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "59"
-"_tb_group" "58"
+"_tb_id" "37"
+"_tb_group" "36"
 // brush 0
 {
 ( 1120 -2864 -48 ) ( 1120 -2864 176 ) ( 1120 -2912 176 ) 128_blue_1 -32 -32 -0 1 1
@@ -1293,7 +1311,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "60"
+"_tb_id" "38"
 // brush 0
 {
 ( -80 -2896 160 ) ( -80 -2912 160 ) ( -80 -2912 -32 ) *waterskip -9.9751 -21.3333 -0 1 0.857143
@@ -1308,7 +1326,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "60"
+"_tb_group" "38"
 // brush 0
 {
 ( -80 -2880 160 ) ( -80 -2896 160 ) ( -80 -2896 -32 ) trigger -25.9751 -21.3333 -0 1 0.857143
@@ -1324,8 +1342,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "61"
-"_tb_group" "60"
+"_tb_id" "39"
+"_tb_group" "38"
 // brush 0
 {
 ( -96 -2864 -48 ) ( -96 -2864 176 ) ( -96 -2912 176 ) 128_blue_1 -32 -32 -0 1 1
@@ -1368,7 +1386,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "62"
+"_tb_id" "40"
 // brush 0
 {
 ( -1312 -2912 160 ) ( -1312 -2928 160 ) ( -1312 -2928 -32 ) *waterskip 6.0249 -21.3333 -0 1 0.857143
@@ -1383,7 +1401,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "62"
+"_tb_group" "40"
 // brush 0
 {
 ( -1312 -2896 160 ) ( -1312 -2912 160 ) ( -1312 -2912 -32 ) trigger -9.9751 -21.3333 -0 1 0.857143
@@ -1399,8 +1417,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "63"
-"_tb_group" "62"
+"_tb_id" "41"
+"_tb_group" "40"
 // brush 0
 {
 ( -1328 -2880 -48 ) ( -1328 -2880 176 ) ( -1328 -2928 176 ) 128_blue_1 -16 -32 -0 1 1
@@ -1443,7 +1461,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "64"
+"_tb_id" "42"
 // brush 0
 {
 ( -688 -1456 160 ) ( -688 -1472 160 ) ( -688 -1472 -32 ) *waterskip -41.9752 -21.3333 -0 1 0.857143
@@ -1458,7 +1476,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "64"
+"_tb_group" "42"
 // brush 0
 {
 ( -688 -1440 160 ) ( -688 -1456 160 ) ( -688 -1456 -32 ) trigger -57.9752 -21.3333 -0 1 0.857143
@@ -1474,8 +1492,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "65"
-"_tb_group" "64"
+"_tb_id" "43"
+"_tb_group" "42"
 // brush 0
 {
 ( -704 -1424 -48 ) ( -704 -1424 176 ) ( -704 -1472 176 ) 128_blue_1 -64 -32 -0 1 1
@@ -1561,12 +1579,12 @@
 "message" "Arena 5 - The greatest danger awaits"
 // brush 0
 {
-( -96 336 208 ) ( -96 320 208 ) ( -96 320 -16 ) trigger -0.93335 0.405995 -0 1 29.2705
-( 96 320 208 ) ( 96 320 -16 ) ( -96 320 -16 ) trigger -0 0.142337 -0 1 15.2115
-( -96 320 -16 ) ( 96 320 -16 ) ( 96 336 -16 ) trigger -0 -0 -0 1 1
-( 96 336 208 ) ( 96 320 208 ) ( -96 320 208 ) trigger -0 -0 -0 1 1
-( 96 336 -16 ) ( 96 336 208 ) ( -96 336 208 ) trigger -0 0.35474 -0 1 15.2115
-( 96 336 -16 ) ( 96 320 -16 ) ( 96 320 208 ) trigger -0.133362 0.202387 -0 1 29.2705
+( -96 320 208 ) ( -96 304 208 ) ( -96 304 -16 ) trigger 15.0667 0.405995 -0 1 29.2705
+( 96 304 208 ) ( 96 304 -16 ) ( -96 304 -16 ) trigger -0 0.142337 -0 1 15.2115
+( -96 304 -16 ) ( 96 304 -16 ) ( 96 320 -16 ) trigger -0 -16 -0 1 1
+( 96 320 208 ) ( 96 304 208 ) ( -96 304 208 ) trigger -0 -16 -0 1 1
+( 96 320 -16 ) ( 96 320 208 ) ( -96 320 208 ) trigger -0 0.35474 -0 1 15.2115
+( 96 320 -16 ) ( 96 304 -16 ) ( 96 304 208 ) trigger 15.8666 0.202387 -0 1 29.2705
 }
 }
 // entity 41
@@ -1574,7 +1592,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Colosseum Hub"
-"_tb_id" "66"
+"_tb_id" "44"
 // brush 0
 {
 ( -160 -1280 272 ) ( -160 -1280 -112 ) ( -160 -768 -112 ) 128_grey_3 -0 -40 -0 2 2
@@ -1667,12 +1685,12 @@
 "message" "simple enemy combat with cover"
 // brush 0
 {
-( 560 -1104 -48 ) ( 560 -1103 -48 ) ( 560 -1104 -47 ) trigger 80 -0 -0 1 1
-( 560 -1104 -48 ) ( 560 -1104 -47 ) ( 561 -1104 -48 ) trigger 64 -0 -0 1 1
-( 560 -1104 -48 ) ( 561 -1104 -48 ) ( 560 -1103 -48 ) trigger 64 -80 -0 1 1
-( 688 -976 -32 ) ( 688 -975 -32 ) ( 689 -976 -32 ) trigger 64 -80 -0 1 1
-( 688 -976 -32 ) ( 689 -976 -32 ) ( 688 -976 -31 ) trigger 64 -0 -0 1 1
-( 688 -976 -32 ) ( 688 -976 -31 ) ( 688 -975 -32 ) trigger 80 -0 -0 1 1
+( 560 -1104 -0 ) ( 560 -1103 -0 ) ( 560 -1104 1 ) trigger 16 48 -0 1 1
+( 560 -1104 -0 ) ( 560 -1104 1 ) ( 561 -1104 -0 ) trigger -0 48 -0 1 1
+( 560 -1104 -0 ) ( 561 -1104 -0 ) ( 560 -1103 -0 ) trigger -0 -16 -0 1 1
+( 688 -976 16 ) ( 688 -975 16 ) ( 689 -976 16 ) trigger -0 -16 -0 1 1
+( 688 -976 16 ) ( 689 -976 16 ) ( 688 -976 17 ) trigger -0 48 -0 1 1
+( 688 -976 16 ) ( 688 -976 17 ) ( 688 -975 16 ) trigger 16 48 -0 1 1
 }
 }
 // entity 43
@@ -1681,12 +1699,12 @@
 "message" "enemy combat with arena control"
 // brush 0
 {
-( -672 -1088 -48 ) ( -672 -1087 -48 ) ( -672 -1088 -47 ) trigger -0 -0 -0 1 1
-( -672 -1088 -48 ) ( -672 -1088 -47 ) ( -671 -1088 -48 ) trigger 16 -0 -0 1 1
-( -672 -1088 -48 ) ( -671 -1088 -48 ) ( -672 -1087 -48 ) trigger 16 -0 -0 1 1
-( -544 -960 -32 ) ( -544 -959 -32 ) ( -543 -960 -32 ) trigger 16 -0 -0 1 1
-( -544 -960 -32 ) ( -543 -960 -32 ) ( -544 -960 -31 ) trigger 16 -0 -0 1 1
-( -544 -960 -32 ) ( -544 -960 -31 ) ( -544 -959 -32 ) trigger -0 -0 -0 1 1
+( -672 -1088 -0 ) ( -672 -1087 -0 ) ( -672 -1088 1 ) trigger -0 48 -0 1 1
+( -672 -1088 -0 ) ( -672 -1088 1 ) ( -671 -1088 -0 ) trigger 16 48 -0 1 1
+( -672 -1088 -0 ) ( -671 -1088 -0 ) ( -672 -1087 -0 ) trigger 16 -0 -0 1 1
+( -544 -960 16 ) ( -544 -959 16 ) ( -543 -960 16 ) trigger 16 -0 -0 1 1
+( -544 -960 16 ) ( -543 -960 16 ) ( -544 -960 17 ) trigger 16 48 -0 1 1
+( -544 -960 16 ) ( -544 -960 17 ) ( -544 -959 16 ) trigger -0 48 -0 1 1
 }
 }
 // entity 44
@@ -1695,12 +1713,12 @@
 "message" "Strong enemy with platforms"
 // brush 0
 {
-( -1296 -2560 -48 ) ( -1296 -2559 -48 ) ( -1296 -2560 -47 ) trigger -0 -0 -0 1 1
-( -1296 -2560 -48 ) ( -1296 -2560 -47 ) ( -1295 -2560 -48 ) trigger -0 -0 -0 1 1
-( -1296 -2560 -48 ) ( -1295 -2560 -48 ) ( -1296 -2559 -48 ) trigger -0 -0 -0 1 1
-( -1168 -2432 -32 ) ( -1168 -2431 -32 ) ( -1167 -2432 -32 ) trigger -0 -0 -0 1 1
-( -1168 -2432 -32 ) ( -1167 -2432 -32 ) ( -1168 -2432 -31 ) trigger -0 -0 -0 1 1
-( -1168 -2432 -32 ) ( -1168 -2432 -31 ) ( -1168 -2431 -32 ) trigger -0 -0 -0 1 1
+( -1296 -2560 -0 ) ( -1296 -2559 -0 ) ( -1296 -2560 1 ) trigger -0 48 -0 1 1
+( -1296 -2560 -0 ) ( -1296 -2560 1 ) ( -1295 -2560 -0 ) trigger -0 48 -0 1 1
+( -1296 -2560 -0 ) ( -1295 -2560 -0 ) ( -1296 -2559 -0 ) trigger -0 -0 -0 1 1
+( -1168 -2432 16 ) ( -1168 -2431 16 ) ( -1167 -2432 16 ) trigger -0 -0 -0 1 1
+( -1168 -2432 16 ) ( -1167 -2432 16 ) ( -1168 -2432 17 ) trigger -0 48 -0 1 1
+( -1168 -2432 16 ) ( -1168 -2432 17 ) ( -1168 -2431 16 ) trigger -0 48 -0 1 1
 }
 }
 // entity 45
@@ -1709,12 +1727,12 @@
 "message" "Aerial enemy combat with cover"
 // brush 0
 {
-( -64 -2528 -48 ) ( -64 -2527 -48 ) ( -64 -2528 -47 ) trigger -32 -0 -0 1 1
-( -64 -2528 -48 ) ( -64 -2528 -47 ) ( -63 -2528 -48 ) trigger 48 -0 -0 1 1
-( -64 -2528 -48 ) ( -63 -2528 -48 ) ( -64 -2527 -48 ) trigger 48 32 -0 1 1
-( 64 -2400 -32 ) ( 64 -2399 -32 ) ( 65 -2400 -32 ) trigger 48 32 -0 1 1
-( 64 -2400 -32 ) ( 65 -2400 -32 ) ( 64 -2400 -31 ) trigger 48 -0 -0 1 1
-( 64 -2400 -32 ) ( 64 -2400 -31 ) ( 64 -2399 -32 ) trigger -32 -0 -0 1 1
+( -64 -2528 -0 ) ( -64 -2527 -0 ) ( -64 -2528 1 ) trigger -32 48 -0 1 1
+( -64 -2528 -0 ) ( -64 -2528 1 ) ( -63 -2528 -0 ) trigger 48 48 -0 1 1
+( -64 -2528 -0 ) ( -63 -2528 -0 ) ( -64 -2527 -0 ) trigger 48 32 -0 1 1
+( 64 -2400 16 ) ( 64 -2399 16 ) ( 65 -2400 16 ) trigger 48 32 -0 1 1
+( 64 -2400 16 ) ( 65 -2400 16 ) ( 64 -2400 17 ) trigger 48 48 -0 1 1
+( 64 -2400 16 ) ( 64 -2400 17 ) ( 64 -2399 16 ) trigger -32 48 -0 1 1
 }
 }
 // entity 46
@@ -1723,12 +1741,12 @@
 "message" "enemy combat with outer rim focus"
 // brush 0
 {
-( 1168 -2528 -48 ) ( 1168 -2527 -48 ) ( 1168 -2528 -47 ) trigger -32 -0 -0 1 1
-( 1168 -2528 -48 ) ( 1168 -2528 -47 ) ( 1169 -2528 -48 ) trigger 32 -0 -0 1 1
-( 1168 -2528 -48 ) ( 1169 -2528 -48 ) ( 1168 -2527 -48 ) trigger 32 32 -0 1 1
-( 1296 -2400 -32 ) ( 1296 -2399 -32 ) ( 1297 -2400 -32 ) trigger 32 32 -0 1 1
-( 1296 -2400 -32 ) ( 1297 -2400 -32 ) ( 1296 -2400 -31 ) trigger 32 -0 -0 1 1
-( 1296 -2400 -32 ) ( 1296 -2400 -31 ) ( 1296 -2399 -32 ) trigger -32 -0 -0 1 1
+( 1168 -2528 -0 ) ( 1168 -2527 -0 ) ( 1168 -2528 1 ) trigger -32 48 -0 1 1
+( 1168 -2528 -0 ) ( 1168 -2528 1 ) ( 1169 -2528 -0 ) trigger 32 48 -0 1 1
+( 1168 -2528 -0 ) ( 1169 -2528 -0 ) ( 1168 -2527 -0 ) trigger 32 32 -0 1 1
+( 1296 -2400 16 ) ( 1296 -2399 16 ) ( 1297 -2400 16 ) trigger 32 32 -0 1 1
+( 1296 -2400 16 ) ( 1297 -2400 16 ) ( 1296 -2400 17 ) trigger 32 48 -0 1 1
+( 1296 -2400 16 ) ( 1296 -2400 17 ) ( 1296 -2399 16 ) trigger -32 48 -0 1 1
 }
 }
 // entity 47
@@ -1791,10 +1809,230 @@
 // entity 51
 {
 "classname" "monster_army"
-"origin" "256 -992 -24"
+"origin" "288 -928 -24"
+"targetname" "Monster1"
 }
 // entity 52
 {
 "classname" "monster_army"
-"origin" "976 -1040 -24"
+"origin" "976 -1136 -24"
+"targetname" "Monster1"
+}
+// entity 53
+{
+"classname" "monster_enforcer"
+"origin" "720 -688 -24"
+"targetname" "Monster1"
+}
+// entity 54
+{
+"classname" "monster_army"
+"origin" "976 -960 -24"
+"targetname" "Monster1"
+}
+// entity 55
+{
+"classname" "monster_enforcer"
+"origin" "592 -688 -24"
+"targetname" "Monster1"
+}
+// entity 56
+{
+"classname" "monster_army"
+"origin" "288 -1072 -24"
+"targetname" "Monster1"
+}
+// entity 57
+{
+"classname" "monster_knight"
+"origin" "-336 -1040 -24"
+"targetname" "Monster2"
+}
+// entity 58
+{
+"classname" "monster_ogre"
+"origin" "-272 -1152 -24"
+"targetname" "Monster2"
+}
+// entity 59
+{
+"classname" "monster_ogre"
+"origin" "-944 -1168 -24"
+"targetname" "Monster2"
+}
+// entity 60
+{
+"classname" "monster_knight"
+"origin" "-896 -1040 -24"
+"targetname" "Monster2"
+}
+// entity 61
+{
+"classname" "monster_ogre_marksman"
+"origin" "1056 -2464 -24"
+"targetname" "Monster3"
+}
+// entity 62
+{
+"classname" "monster_ogre_marksman"
+"origin" "1408 -2464 -24"
+"targetname" "Monster3"
+}
+// entity 63
+{
+"classname" "monster_ogre_marksman"
+"origin" "1232 -2656 -24"
+"targetname" "Monster3"
+}
+// entity 64
+{
+"classname" "monster_wizard"
+"origin" "-64 -2704 -24"
+"targetname" "Monster4"
+}
+// entity 65
+{
+"classname" "monster_wizard"
+"origin" "-16 -2240 -24"
+"targetname" "Monster4"
+}
+// entity 66
+{
+"classname" "monster_zombie"
+"origin" "-384 -2400 88"
+"targetname" "Monster4"
+}
+// entity 67
+{
+"classname" "monster_zombie"
+"origin" "-400 -2528 88"
+"targetname" "Monster4"
+}
+// entity 68
+{
+"classname" "monster_zombie"
+"origin" "-64 -2096 88"
+"targetname" "Monster4"
+}
+// entity 69
+{
+"classname" "monster_zombie"
+"origin" "48 -2096 88"
+"targetname" "Monster4"
+}
+// entity 70
+{
+"classname" "monster_zombie"
+"origin" "384 -2528 88"
+"targetname" "Monster4"
+}
+// entity 71
+{
+"classname" "monster_zombie"
+"origin" "400 -2400 88"
+"targetname" "Monster4"
+}
+// entity 72
+{
+"classname" "monster_shambler"
+"origin" "-1248 -2112 -24"
+"targetname" "Monster5"
+}
+// entity 73
+{
+"classname" "monster_knight"
+"origin" "-1568 -2288 -24"
+"targetname" "Monster5"
+}
+// entity 74
+{
+"classname" "monster_knight"
+"origin" "-1568 -2624 -24"
+"targetname" "Monster5"
+}
+// entity 75
+{
+"classname" "monster_knight"
+"origin" "-912 -2624 -24"
+"targetname" "Monster5"
+}
+// entity 76
+{
+"classname" "monster_knight"
+"origin" "-912 -2288 -24"
+"targetname" "Monster5"
+}
+// entity 77
+{
+"classname" "trigger_multiple"
+"target" "Monster1"
+// brush 0
+{
+( 560 -1104 -32 ) ( 560 -1103 -32 ) ( 560 -1104 -31 ) trigger 16 16 -0 1 1
+( 560 -1104 -32 ) ( 560 -1104 -31 ) ( 561 -1104 -32 ) trigger -0 16 -0 1 1
+( 560 -1104 -32 ) ( 561 -1104 -32 ) ( 560 -1103 -32 ) trigger -0 -16 -0 1 1
+( 688 -976 -16 ) ( 688 -975 -16 ) ( 689 -976 -16 ) trigger -0 -16 -0 1 1
+( 688 -976 -16 ) ( 689 -976 -16 ) ( 688 -976 -15 ) trigger -0 16 -0 1 1
+( 688 -976 -16 ) ( 688 -976 -15 ) ( 688 -975 -16 ) trigger 16 16 -0 1 1
+}
+}
+// entity 78
+{
+"classname" "trigger_multiple"
+"message" "enemy combat with arena control"
+"target" "Monster2"
+// brush 0
+{
+( -672 -1088 -32 ) ( -672 -1087 -32 ) ( -672 -1088 -31 ) trigger -0 16 -0 1 1
+( -672 -1088 -32 ) ( -672 -1088 -31 ) ( -671 -1088 -32 ) trigger 16 16 -0 1 1
+( -672 -1088 -32 ) ( -671 -1088 -32 ) ( -672 -1087 -32 ) trigger 16 -0 -0 1 1
+( -544 -960 -16 ) ( -544 -959 -16 ) ( -543 -960 -16 ) trigger 16 -0 -0 1 1
+( -544 -960 -16 ) ( -543 -960 -16 ) ( -544 -960 -15 ) trigger 16 16 -0 1 1
+( -544 -960 -16 ) ( -544 -960 -15 ) ( -544 -959 -16 ) trigger -0 16 -0 1 1
+}
+}
+// entity 79
+{
+"classname" "trigger_multiple"
+"message" "enemy combat with outer rim focus"
+"target" "Monster3"
+// brush 0
+{
+( 1168 -2528 -48 ) ( 1168 -2527 -48 ) ( 1168 -2528 -47 ) trigger -32 -0 -0 1 1
+( 1168 -2528 -48 ) ( 1168 -2528 -47 ) ( 1169 -2528 -48 ) trigger 32 -0 -0 1 1
+( 1168 -2528 -48 ) ( 1169 -2528 -48 ) ( 1168 -2527 -48 ) trigger 32 32 -0 1 1
+( 1296 -2400 -32 ) ( 1296 -2399 -32 ) ( 1297 -2400 -32 ) trigger 32 32 -0 1 1
+( 1296 -2400 -32 ) ( 1297 -2400 -32 ) ( 1296 -2400 -31 ) trigger 32 -0 -0 1 1
+( 1296 -2400 -32 ) ( 1296 -2400 -31 ) ( 1296 -2399 -32 ) trigger -32 -0 -0 1 1
+}
+}
+// entity 80
+{
+"classname" "trigger_multiple"
+"message" "Aerial enemy combat with cover"
+"target" "Monster4"
+// brush 0
+{
+( -64 -2528 -48 ) ( -64 -2527 -48 ) ( -64 -2528 -47 ) trigger -32 -0 -0 1 1
+( -64 -2528 -48 ) ( -64 -2528 -47 ) ( -63 -2528 -48 ) trigger 48 -0 -0 1 1
+( -64 -2528 -48 ) ( -63 -2528 -48 ) ( -64 -2527 -48 ) trigger 48 32 -0 1 1
+( 64 -2400 -32 ) ( 64 -2399 -32 ) ( 65 -2400 -32 ) trigger 48 32 -0 1 1
+( 64 -2400 -32 ) ( 65 -2400 -32 ) ( 64 -2400 -31 ) trigger 48 -0 -0 1 1
+( 64 -2400 -32 ) ( 64 -2400 -31 ) ( 64 -2399 -32 ) trigger -32 -0 -0 1 1
+}
+}
+// entity 81
+{
+"classname" "trigger_multiple"
+"message" "Strong enemy with platforms"
+"target" "Monster5"
+// brush 0
+{
+( -1296 -2560 -48 ) ( -1296 -2559 -48 ) ( -1296 -2560 -47 ) trigger -0 -0 -0 1 1
+( -1296 -2560 -48 ) ( -1296 -2560 -47 ) ( -1295 -2560 -48 ) trigger -0 -0 -0 1 1
+( -1296 -2560 -48 ) ( -1295 -2560 -48 ) ( -1296 -2559 -48 ) trigger -0 -0 -0 1 1
+( -1168 -2432 -32 ) ( -1168 -2431 -32 ) ( -1167 -2432 -32 ) trigger -0 -0 -0 1 1
+( -1168 -2432 -32 ) ( -1167 -2432 -32 ) ( -1168 -2432 -31 ) trigger -0 -0 -0 1 1
+( -1168 -2432 -32 ) ( -1168 -2432 -31 ) ( -1168 -2431 -32 ) trigger -0 -0 -0 1 1
+}
 }
