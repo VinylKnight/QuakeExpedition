@@ -392,7 +392,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1772"
+"_tb_id" "1926"
 // brush 0
 {
 ( 517.49033200812187 1197.2548339959392 208 ) ( 653.25483399593884 1061.4903320081219 208 ) ( 653.25483399593884 1061.4903320081219 -16 ) wizmet1_2 -13.1738 -0 -0 0.707107 1
@@ -435,7 +435,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "1773"
+"_tb_id" "1927"
 // brush 0
 {
 ( -80 -240 192 ) ( -80 -256 192 ) ( -80 -256 -0 ) *waterskip 22.0248 16 -0 1 0.857143
@@ -450,7 +450,7 @@
 {
 "classname" "trigger_teleport"
 "target" "Colosseum5"
-"_tb_group" "1773"
+"_tb_group" "1927"
 // brush 0
 {
 ( -80 -224 192 ) ( -80 -240 192 ) ( -80 -240 -0 ) trigger 6.02481 16 -0 1 0.857143
@@ -466,8 +466,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1774"
-"_tb_group" "1773"
+"_tb_id" "1928"
+"_tb_group" "1927"
 // brush 0
 {
 ( -96 -208 -16 ) ( -96 -208 208 ) ( -96 -256 208 ) wizmet1_2 -0 -0 -0 1 1
@@ -510,7 +510,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "1775"
+"_tb_id" "1929"
 // brush 0
 {
 ( 544 -1568 160 ) ( 544 -1584 160 ) ( 544 -1584 -32 ) *tele01 6.02478 -21.3333 -0 1 0.857143
@@ -525,7 +525,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "1775"
+"_tb_group" "1929"
 // brush 0
 {
 ( 544 -1552 160 ) ( 544 -1568 160 ) ( 544 -1568 -32 ) trigger -9.97522 -21.3333 -0 1 0.857143
@@ -541,8 +541,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1776"
-"_tb_group" "1775"
+"_tb_id" "1930"
+"_tb_group" "1929"
 // brush 0
 {
 ( 528 -1536 -48 ) ( 528 -1536 176 ) ( 528 -1584 176 ) wizmet1_2 48 -32 -0 1 1
@@ -585,7 +585,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "1777"
+"_tb_id" "1931"
 // brush 0
 {
 ( 1152 -3008 160 ) ( 1152 -3024 160 ) ( 1152 -3024 -32 ) *waterskip 38.0249 -21.3333 -0 1 0.857143
@@ -600,7 +600,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "1777"
+"_tb_group" "1931"
 // brush 0
 {
 ( 1152 -2992 160 ) ( 1152 -3008 160 ) ( 1152 -3008 -32 ) trigger 22.0249 -21.3333 -0 1 0.857143
@@ -616,8 +616,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1778"
-"_tb_group" "1777"
+"_tb_id" "1932"
+"_tb_group" "1931"
 // brush 0
 {
 ( 1136 -2976 -48 ) ( 1136 -2976 176 ) ( 1136 -3024 176 ) wizmet1_2 80 -32 -0 1 1
@@ -660,7 +660,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "1779"
+"_tb_id" "1933"
 // brush 0
 {
 ( -80 -3008 160 ) ( -80 -3024 160 ) ( -80 -3024 -32 ) *waterskip -25.9751 -21.3333 -0 1 0.857143
@@ -675,7 +675,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "1779"
+"_tb_group" "1933"
 // brush 0
 {
 ( -80 -2992 160 ) ( -80 -3008 160 ) ( -80 -3008 -32 ) trigger 22.0249 -21.3333 -0 1 0.857143
@@ -691,8 +691,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1780"
-"_tb_group" "1779"
+"_tb_id" "1934"
+"_tb_group" "1933"
 // brush 0
 {
 ( -96 -2976 -48 ) ( -96 -2976 176 ) ( -96 -3024 176 ) wizmet1_2 80 -32 -0 1 1
@@ -735,7 +735,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "1781"
+"_tb_id" "1935"
 // brush 0
 {
 ( -1312 -3008 160 ) ( -1312 -3024 160 ) ( -1312 -3024 -32 ) *waterskip 38.0249 -21.3333 -0 1 0.857143
@@ -751,8 +751,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1782"
-"_tb_group" "1781"
+"_tb_id" "1936"
+"_tb_group" "1935"
 // brush 0
 {
 ( -1328 -2976 -48 ) ( -1328 -2976 176 ) ( -1328 -3024 176 ) wizmet1_2 80 -32 -0 1 1
@@ -794,7 +794,7 @@
 {
 "classname" "trigger_changelevel"
 "map" "Start"
-"_tb_group" "1781"
+"_tb_group" "1935"
 // brush 0
 {
 ( -1312 -2992 160 ) ( -1312 -3008 160 ) ( -1312 -3008 -32 ) trigger 22.0249 -21.3333 -0 1 0.857143
@@ -809,344 +809,344 @@
 {
 "classname" "light"
 "origin" "-432 -1144 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 25
 {
 "classname" "light"
 "origin" "-432 -904 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 26
 {
 "classname" "light"
 "origin" "-744 -904 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 27
 {
 "classname" "light"
 "origin" "-744 -1144 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 28
 {
 "classname" "light"
 "origin" "-744 -904 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 29
 {
 "classname" "light"
 "origin" "-432 -904 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 30
 {
 "classname" "light"
 "origin" "-432 -1144 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 31
 {
 "classname" "light"
 "origin" "-744 -1144 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 32
 {
 "classname" "light"
 "origin" "464 -904 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 33
 {
 "classname" "light"
 "origin" "776 -904 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 34
 {
 "classname" "light"
 "origin" "776 -1144 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 35
 {
 "classname" "light"
 "origin" "464 -1144 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 36
 {
 "classname" "light"
 "origin" "464 -904 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 37
 {
 "classname" "light"
 "origin" "776 -904 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 38
 {
 "classname" "light"
 "origin" "776 -1144 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 39
 {
 "classname" "light"
 "origin" "464 -1144 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 40
 {
 "classname" "light"
 "origin" "1056 -2368 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 41
 {
 "classname" "light"
 "origin" "1368 -2368 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 42
 {
 "classname" "light"
 "origin" "1368 -2608 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 43
 {
 "classname" "light"
 "origin" "1056 -2608 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 44
 {
 "classname" "light"
 "origin" "1056 -2368 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 45
 {
 "classname" "light"
 "origin" "1368 -2368 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 46
 {
 "classname" "light"
 "origin" "1368 -2608 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 47
 {
 "classname" "light"
 "origin" "1056 -2608 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 48
 {
 "classname" "light"
 "origin" "-176 -2368 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 49
 {
 "classname" "light"
 "origin" "136 -2368 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 50
 {
 "classname" "light"
 "origin" "136 -2608 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 51
 {
 "classname" "light"
 "origin" "-176 -2608 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 52
 {
 "classname" "light"
 "origin" "-176 -2368 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 53
 {
 "classname" "light"
 "origin" "136 -2368 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 54
 {
 "classname" "light"
 "origin" "136 -2608 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 55
 {
 "classname" "light"
 "origin" "-176 -2608 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 56
 {
 "classname" "light"
 "origin" "-1408 -2368 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 57
 {
 "classname" "light"
 "origin" "-1096 -2368 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 58
 {
 "classname" "light"
 "origin" "-1096 -2608 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 59
 {
 "classname" "light"
 "origin" "-1408 -2608 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 60
 {
 "classname" "light"
 "origin" "-1408 -2368 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 61
 {
 "classname" "light"
 "origin" "-1096 -2368 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 62
 {
 "classname" "light"
 "origin" "-1096 -2608 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 63
 {
 "classname" "light"
 "origin" "-1408 -2608 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 64
 {
 "classname" "light"
 "origin" "-232 960 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 65
 {
 "classname" "light"
 "origin" "80 960 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 66
 {
 "classname" "light"
 "origin" "80 720 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 67
 {
 "classname" "light"
 "origin" "-232 720 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 68
 {
 "classname" "light"
 "origin" "-232 960 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 69
 {
 "classname" "light"
 "origin" "80 960 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 70
 {
 "classname" "light"
 "origin" "80 720 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 71
 {
 "classname" "light"
 "origin" "-232 720 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 72
 {
 "classname" "light"
 "origin" "-232 520 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 73
 {
 "classname" "light"
 "origin" "80 520 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 74
 {
 "classname" "light"
 "origin" "80 280 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 75
 {
 "classname" "light"
 "origin" "-232 280 24"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 76
 {
 "classname" "light"
 "origin" "-232 520 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 77
 {
 "classname" "light"
 "origin" "80 520 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 78
 {
 "classname" "light"
 "origin" "80 280 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 79
 {
 "classname" "light"
 "origin" "-232 280 168"
-"_tb_group" "1781"
+"_tb_group" "1935"
 }
 // entity 80
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Teleporter Base"
-"_tb_id" "1783"
+"_tb_id" "1937"
 // brush 0
 {
 ( -688 -1568 160 ) ( -688 -1584 160 ) ( -688 -1584 -32 ) *waterskip 6.02478 -21.3333 -0 1 0.857143
@@ -1161,7 +1161,7 @@
 {
 "classname" "trigger_teleport"
 "target" "HubRoom"
-"_tb_group" "1783"
+"_tb_group" "1937"
 // brush 0
 {
 ( -688 -1552 160 ) ( -688 -1568 160 ) ( -688 -1568 -32 ) trigger 54.0248 -21.3333 -0 1 0.857143
@@ -1177,8 +1177,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1784"
-"_tb_group" "1783"
+"_tb_id" "1938"
+"_tb_group" "1937"
 // brush 0
 {
 ( -704 -1536 -48 ) ( -704 -1536 176 ) ( -704 -1584 176 ) wizmet1_2 48 -32 -0 1 1
@@ -1657,7 +1657,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Colosseum Hub"
-"_tb_id" "1785"
+"_tb_id" "1939"
 // brush 0
 {
 ( -416 -1536 272 ) ( -416 -1536 -112 ) ( -96 -1216 -112 ) wall14_5 -99.2815 -40 -0 1.95 2
@@ -1804,7 +1804,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Colosseum Hub"
-"_tb_id" "1786"
+"_tb_id" "1940"
 // brush 0
 {
 ( 528 -1472 -48 ) ( 528 -1536 -48 ) ( 528 -1536 -64 ) wizmet1_1 -0 -0 -0 1 1
@@ -1820,8 +1820,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "1787"
-"_tb_group" "1786"
+"_tb_id" "1941"
+"_tb_group" "1940"
 // brush 0
 {
 ( 816 -1536 272 ) ( 816 -1536 -112 ) ( 1136 -1216 -112 ) wall14_5 -99.2815 -40 -0 1.95 2
@@ -1944,7 +1944,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Colosseum Hub"
-"_tb_id" "1788"
+"_tb_id" "1942"
 // brush 0
 {
 ( 1136 -2912 -48 ) ( 1136 -2976 -48 ) ( 1136 -2976 -64 ) wizmet1_1 32 -0 -0 1 1
@@ -1960,8 +1960,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "1789"
-"_tb_group" "1788"
+"_tb_id" "1943"
+"_tb_group" "1942"
 // brush 0
 {
 ( 1424 -2976 272 ) ( 1424 -2976 -112 ) ( 1744 -2656 -112 ) wall14_5 127.18 -40 -0 1.95 2
@@ -2084,7 +2084,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Colosseum Hub"
-"_tb_id" "1790"
+"_tb_id" "1944"
 // brush 0
 {
 ( -96 -2912 -48 ) ( -96 -2976 -48 ) ( -96 -2976 -64 ) wizmet1_1 32 -0 -0 1 1
@@ -2100,8 +2100,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "1791"
-"_tb_group" "1790"
+"_tb_id" "1945"
+"_tb_group" "1944"
 // brush 0
 {
 ( 192 -2976 272 ) ( 192 -2976 -112 ) ( 512 -2656 -112 ) wall14_5 127.18 -40 -0 1.95 2
@@ -2224,7 +2224,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Colosseum Hub"
-"_tb_id" "1792"
+"_tb_id" "1946"
 // brush 0
 {
 ( -1328 -2912 -48 ) ( -1328 -2976 -48 ) ( -1328 -2976 -64 ) wizmet1_1 32 -0 -0 1 1
@@ -2240,8 +2240,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "1793"
-"_tb_group" "1792"
+"_tb_id" "1947"
+"_tb_group" "1946"
 // brush 0
 {
 ( -1040 -2976 272 ) ( -1040 -2976 -112 ) ( -720 -2656 -112 ) wall14_5 127.18 -40 -0 1.95 2
@@ -2621,7 +2621,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Collisseum Hub"
-"_tb_id" "1794"
+"_tb_id" "1948"
 // brush 0
 {
 ( -672 896 272 ) ( -672 224 464 ) ( -672 224 272 ) wceiling5 69.3334 37.3333 -0 3 1.5
@@ -2722,30 +2722,30 @@
 }
 // brush 10
 {
-( 608 1008 -16 ) ( 608 1008 224 ) ( 768 848 224 ) wall14_5 -97.7778 -8.88892 0 3 3
-( 656 1056 224 ) ( 608 1008 224 ) ( 608 1008 -16 ) wall14_5 -5.33333 -26.6667 0 3 1.5
-( 608 1008 -16 ) ( 768 848 -16 ) ( 768 944 -16 ) wall14_5 0 -69.3333 0 3 3
-( 768 848 224 ) ( 608 1008 224 ) ( 656 1056 224 ) wall14_5 -0 -69.3333 -0 3 3
-( 768 944 -16 ) ( 768 944 224 ) ( 656 1056 224 ) wall14_5 69.3333 -26.6667 -0 3 1.5
+( 604 1012 -16 ) ( 604 1012 224 ) ( 768 848 224 ) wall14_5 -33.7778 -8.88892 0 3 3
+( 652 1060 224 ) ( 604 1012 224 ) ( 604 1012 -16 ) wall14_5 -5.33333 -26.6667 0 3 1.5
+( 652 1060 -16 ) ( 604 1012 -16 ) ( 768 848 -16 ) wall14_5 0 -69.3333 0 3 3
+( 768 848 224 ) ( 604 1012 224 ) ( 652 1060 224 ) wall14_5 -0 -69.3333 -0 3 3
+( 768 944 224 ) ( 652 1060 224 ) ( 652 1060 -16 ) wall14_5 5.3333 -26.6667 -0 3 1.5
 ( 768 944 -16 ) ( 768 848 -16 ) ( 768 848 224 ) wall14_5 69.3334 -26.6667 -0 3 1.5
 }
 // brush 11
 {
-( 464 1152 224 ) ( 464 1152 -16 ) ( 288 1328 -16 ) wall14_5 -58.6667 -26.6667 -0 3 1.5
-( 512 1200 -16 ) ( 384 1328 -16 ) ( 288 1328 -16 ) wall14_5 0 -69.3333 0 3 3
-( 384 1328 224 ) ( 512 1200 224 ) ( 464 1152 224 ) wall14_5 -0 -69.3333 -0 3 3
-( 288 1328 -16 ) ( 384 1328 -16 ) ( 384 1328 224 ) wall14_5 -0 -26.6667 -0 3 1.5
-( 512 1200 224 ) ( 512 1200 -16 ) ( 464 1152 -16 ) wall14_5 -20.5977 -26.6667 0 3 1.5
-( 384 1328 224 ) ( 384 1328 -16 ) ( 512 1200 -16 ) wall14_5 -58.6667 -26.6667 -0 3 1.5
+( 468 1148 -16 ) ( 288 1328 -16 ) ( 288 1328 224 ) wall14_5 -58.6667 -26.6667 -0 3 1.5
+( 516 1196 -16 ) ( 384 1328 -16 ) ( 288 1328 -16 ) wall14_5 0 -69.3333 0 3 3
+( 288 1328 224 ) ( 384 1328 224 ) ( 516 1196 224 ) wall14_5 -0 -69.3333 -0 3 3
+( 384 1328 -16 ) ( 384 1328 224 ) ( 288 1328 224 ) wall14_5 -0 -26.6667 -0 3 1.5
+( 516 1196 -16 ) ( 468 1148 -16 ) ( 468 1148 224 ) wall14_5 -20.5977 -26.6667 0 3 1.5
+( 516 1196 224 ) ( 384 1328 224 ) ( 384 1328 -16 ) wall14_5 -58.6666 -26.6667 -0 3 1.5
 }
 // brush 12
 {
-( 464 1152 208 ) ( 464 1152 224 ) ( 608 1008 224 ) wall14_5 69.3333 -26.6667 -0 3 1.5
-( 512 1200 224 ) ( 464 1152 224 ) ( 464 1152 208 ) wall14_5 -101.333 -26.6667 0 3 1.5
-( 608 1008 208 ) ( 656 1056 208 ) ( 512 1200 208 ) wall14_5 0 -69.3333 0 3 3
-( 608 1008 224 ) ( 464 1152 224 ) ( 512 1200 224 ) wall14_5 -0 -69.3333 -0 3 3
-( 656 1056 224 ) ( 656 1056 208 ) ( 608 1008 208 ) wall14_5 -64 -26.6667 0 3 1.5
-( 512 1200 208 ) ( 656 1056 208 ) ( 656 1056 224 ) wall14_5 -58.6666 -26.6667 -0 3 1.5
+( 604 1012 224 ) ( 604 1012 208 ) ( 468 1148 208 ) wall14_5 -58.6667 -26.6667 -0 3 1.5
+( 516 1196 208 ) ( 516 1196 224 ) ( 468 1148 224 ) wall14_5 -101.333 -26.6667 0 3 1.5
+( 604 1012 208 ) ( 652 1060 208 ) ( 516 1196 208 ) wall14_5 0 -69.3333 0 3 3
+( 516 1196 224 ) ( 652 1060 224 ) ( 604 1012 224 ) wall14_5 -0 -69.3333 -0 3 3
+( 652 1060 224 ) ( 652 1060 208 ) ( 604 1012 208 ) wall14_5 -64 -26.6667 0 3 1.5
+( 516 1196 208 ) ( 652 1060 208 ) ( 652 1060 224 ) wall14_5 -58.6666 -26.6667 -0 3 1.5
 }
 // brush 13
 {
@@ -2839,21 +2839,21 @@
 }
 // brush 23
 {
-( 288 -208 208 ) ( 288 -208 -16 ) ( 448 -48 -16 ) wall14_5 69.3334 -26.6667 -0 3 1.5
+( 288 -208 208 ) ( 288 -208 -16 ) ( 452 -44 -16 ) wall14_5 5.3334 -26.6667 -0 3 1.5
 ( 384 -208 -16 ) ( 288 -208 -16 ) ( 288 -208 208 ) wall14_5 -0 -26.6667 -0 3 1.5
-( 448 -48 -16 ) ( 288 -208 -16 ) ( 384 -208 -16 ) wall14_5 0 -69.3334 0 3 3
-( 496 -96 208 ) ( 384 -208 208 ) ( 288 -208 208 ) wall14_5 0 -69.3334 0 3 3
-( 496 -96 -16 ) ( 384 -208 -16 ) ( 384 -208 208 ) wall14_5 69.3334 -26.6667 -0 3 1.5
-( 496 -96 -16 ) ( 496 -96 208 ) ( 448 -48 208 ) wall14_5 118.222 -26.6667 0 3 1.5
+( 452 -44 -16 ) ( 288 -208 -16 ) ( 384 -208 -16 ) wall14_5 0 -69.3334 0 3 3
+( 452 -44 208 ) ( 500 -92 208 ) ( 384 -208 208 ) wall14_5 0 -69.3334 0 3 3
+( 384 -208 208 ) ( 500 -92 208 ) ( 500 -92 -16 ) wall14_5 5.3334 -26.6667 -0 3 1.5
+( 500 -92 -16 ) ( 500 -92 208 ) ( 452 -44 208 ) wall14_5 118.222 -26.6667 0 3 1.5
 }
 // brush 24
 {
-( 640 48 -16 ) ( 592 96 -16 ) ( 592 96 208 ) wall14_5 37.3333 37.3333 -0 3 1.5
-( 592 96 208 ) ( 592 96 -16 ) ( 768 272 -16 ) wall14_5 5.3334 37.3333 -0 3 1.5
-( 768 272 -16 ) ( 592 96 -16 ) ( 640 48 -16 ) wall14_5 -0 -5.3334 -0 3 3
-( 768 272 208 ) ( 768 176 208 ) ( 640 48 208 ) wall14_5 -0 -5.3334 -0 3 3
-( 768 176 -16 ) ( 640 48 -16 ) ( 640 48 208 ) wall14_5 5.3334 37.3333 -0 3 1.5
-( 768 176 -16 ) ( 768 176 208 ) ( 768 272 208 ) wall14_5 5.3334 37.3333 -0 3 1.5
+( 636 44 208 ) ( 636 44 -16 ) ( 588 92 -16 ) wall14_5 37.3333 37.3333 -0 3 1.5
+( 588 92 208 ) ( 588 92 -16 ) ( 768 272 -16 ) wall14_5 5.3334 37.3333 -0 3 1.5
+( 588 92 -16 ) ( 636 44 -16 ) ( 768 176 -16 ) wall14_5 -0 -5.3334 -0 3 3
+( 768 176 208 ) ( 636 44 208 ) ( 588 92 208 ) wall14_5 -0 -5.3334 -0 3 3
+( 768 176 -16 ) ( 636 44 -16 ) ( 636 44 208 ) wall14_5 5.3334 37.3333 -0 3 1.5
+( 768 272 -16 ) ( 768 176 -16 ) ( 768 176 208 ) wall14_5 5.3334 37.3333 -0 3 1.5
 }
 // brush 25
 {
@@ -3075,7 +3075,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "PortalToColosseum2"
-"_tb_id" "1795"
+"_tb_id" "1949"
 // brush 0
 {
 ( 800 640 192 ) ( 800 480 192 ) ( 800 480 -0 ) *tele01 20.6863 16 -0 1 1
@@ -3090,7 +3090,7 @@
 {
 "classname" "trigger_multiple"
 "message" "Arena 3 - Right of Passage"
-"_tb_group" "1795"
+"_tb_group" "1949"
 // brush 0
 {
 ( 560 656 208 ) ( 560 464 208 ) ( 560 464 -16 ) trigger -0 0.35474 -0 1 15.2115
@@ -3105,7 +3105,7 @@
 {
 "classname" "trigger_teleport"
 "target" "Colosseum3"
-"_tb_group" "1795"
+"_tb_group" "1949"
 // brush 0
 {
 ( 784 640 192 ) ( 784 480 192 ) ( 784 480 -0 ) trigger 20.6863 -48 -0 1 1
@@ -3121,8 +3121,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1796"
-"_tb_group" "1795"
+"_tb_id" "1950"
+"_tb_group" "1949"
 // brush 0
 {
 ( 768 656 208 ) ( 768 464 208 ) ( 768 464 -16 ) wizmet1_2 -0 -0 -0 1 1
@@ -3165,7 +3165,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "PortalToColosseum1"
-"_tb_id" "1797"
+"_tb_id" "1951"
 // brush 0
 {
 ( -80 1376 192 ) ( -80 1360 192 ) ( -80 1360 -0 ) *waterskip -27.474 16 -0 1 0.857143
@@ -3180,7 +3180,7 @@
 {
 "classname" "trigger_teleport"
 "target" "Colosseum1"
-"_tb_group" "1797"
+"_tb_group" "1951"
 // brush 0
 {
 ( -80 1360 192 ) ( -80 1344 192 ) ( -80 1344 -0 ) trigger -11.474 16 -0 1 0.857143
@@ -3196,8 +3196,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1798"
-"_tb_group" "1797"
+"_tb_id" "1952"
+"_tb_group" "1951"
 // brush 0
 {
 ( -96 1376 -16 ) ( -96 1376 208 ) ( -96 1328 208 ) wizmet1_2 -48 -0 -0 1 1
@@ -3241,7 +3241,7 @@
 "message" "Arena 1 - Initiates Gaunlet"
 "wait" "3"
 "sounds" "0"
-"_tb_group" "1797"
+"_tb_group" "1951"
 // brush 0
 {
 ( -96 1216 208 ) ( -96 1152 208 ) ( -96 1152 -16 ) trigger 32.0667 0.405995 -0 1 29.2705
@@ -3257,7 +3257,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal To Colosseum 4"
-"_tb_id" "1799"
+"_tb_id" "1953"
 // brush 0
 {
 ( 544 -112 192 ) ( 544 -112 -0 ) ( 528 -96 -0 ) *waterskip -14.0704 15.9613 -0 0.707107 0.861865
@@ -3273,8 +3273,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Portal Frame"
-"_tb_id" "1800"
-"_tb_group" "1799"
+"_tb_id" "1954"
+"_tb_group" "1953"
 // brush 0
 {
 ( 496.80404050710672 -88.568542494923747 -16 ) ( 496.80404050710672 -88.568542494923747 208 ) ( 530.74516600406093 -122.50966799187808 208 ) wizmet1_2 45.2547 -0 -0 0.707107 1
@@ -3316,7 +3316,7 @@
 {
 "classname" "trigger_teleport"
 "target" "Colosseum4"
-"_tb_group" "1799"
+"_tb_group" "1953"
 // brush 0
 {
 ( 528 -96 192 ) ( 528 -96 -0 ) ( 512 -80 -0 ) trigger 27.3021 15.9613 -0 0.707107 0.861865
@@ -3398,7 +3398,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1801"
+"_tb_id" "1955"
 // brush 0
 {
 ( -608 128 96 ) ( -608 128 112 ) ( -580.68629150101663 100.68629150101685 112 ) wwood1_7 -0.214417 -0 180 0.707107 -1
@@ -3414,14 +3414,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-592 122 124"
 "angle" "45"
-"_tb_group" "1801"
+"_tb_group" "1955"
 }
 // entity 225
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1802"
+"_tb_id" "1956"
 // brush 0
 {
 ( -464 -32 96 ) ( -464 -32 112 ) ( -436.68629150101663 -59.313708498983146 112 ) wwood1_7 11.4323 -0 180 0.707107 -1
@@ -3437,14 +3437,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-448 -38 124"
 "angle" "45"
-"_tb_group" "1802"
+"_tb_group" "1956"
 }
 // entity 227
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1803"
+"_tb_id" "1957"
 // brush 0
 {
 ( -592 1001.3725830020283 96 ) ( -603.3137084989836 1012.6862915010158 96 ) ( -603.31370849898303 1012.6862915010165 112 ) wwood1_7 35.1547 -0 180 0.707107 -1
@@ -3460,14 +3460,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-582 1024 124"
 "angle" "315"
-"_tb_group" "1803"
+"_tb_group" "1957"
 }
 // entity 229
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1804"
+"_tb_id" "1958"
 // brush 0
 {
 ( -432 1161.3725830020283 96 ) ( -443.31370849898371 1172.6862915010161 96 ) ( -443.31370849898315 1172.6862915010165 112 ) wwood1_7 5.42883 -0 180 0.707107 -1
@@ -3483,14 +3483,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-422 1184 124"
 "angle" "315"
-"_tb_group" "1804"
+"_tb_group" "1958"
 }
 // entity 231
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1805"
+"_tb_id" "1959"
 // brush 0
 {
 ( 388.68629150101862 -84.686291501013329 112 ) ( 400 -96 112 ) ( 400 -96 96 ) wwood1_7 44.137 -0 -0 0.707107 1
@@ -3506,14 +3506,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "406 -80 124"
 "angle" "135"
-"_tb_group" "1805"
+"_tb_group" "1959"
 }
 // entity 233
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1806"
+"_tb_id" "1960"
 // brush 0
 {
 ( 393.37258300202825 1184 96 ) ( 393.3725830020303 1184 112 ) ( 420.68629150101333 1156.6862915010188 112 ) wwood1_7 56.6871 -0 -0 0.707107 1
@@ -3529,14 +3529,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "416 1174 124"
 "angle" "225"
-"_tb_group" "1806"
+"_tb_group" "1960"
 }
 // entity 235
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1807"
+"_tb_id" "1961"
 // brush 0
 {
 ( 617.37258300202825 976 96 ) ( 617.3725830020303 976 112 ) ( 644.68629150101333 948.68629150101879 112 ) wwood1_7 -4.09668 -0 -0 0.707107 1
@@ -3552,14 +3552,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "640 966 124"
 "angle" "225"
-"_tb_group" "1807"
+"_tb_group" "1961"
 }
 // entity 237
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1808"
+"_tb_id" "1962"
 // brush 0
 {
 ( 596.68629150101856 123.31370849898667 112 ) ( 608 112 112 ) ( 608 112 96 ) wwood1_7 -58.0194 -0 -0 0.707107 1
@@ -3575,14 +3575,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "614 128 124"
 "angle" "135"
-"_tb_group" "1808"
+"_tb_group" "1962"
 }
 // entity 239
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1809"
+"_tb_id" "1963"
 // brush 0
 {
 ( 1012.6862915010186 -1316.6862915010133 112 ) ( 1024 -1328 112 ) ( 1024 -1328 96 ) wwood1_7 58.4482 -0 -0 0.707107 1
@@ -3598,14 +3598,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "1030 -1312 124"
 "angle" "135"
-"_tb_group" "1809"
+"_tb_group" "1963"
 }
 // entity 241
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1810"
+"_tb_id" "1964"
 // brush 0
 {
 ( 884.68629150101856 -1444.6862915010133 112 ) ( 896 -1456 112 ) ( 896 -1456 96 ) wwood1_7 -16.5325 -0 -0 0.707107 1
@@ -3621,14 +3621,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "902 -1440 124"
 "angle" "135"
-"_tb_group" "1810"
+"_tb_group" "1964"
 }
 // entity 243
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1811"
+"_tb_id" "1965"
 // brush 0
 {
 ( 212.68629150101856 -732.68629150101333 112 ) ( 224 -744 112 ) ( 224 -744 96 ) wwood1_7 0.547485 -0 -0 0.707107 1
@@ -3644,14 +3644,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "230 -728 124"
 "angle" "135"
-"_tb_group" "1811"
+"_tb_group" "1965"
 }
 // entity 245
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1812"
+"_tb_id" "1966"
 // brush 0
 {
 ( 324.68629150101856 -620.68629150101333 112 ) ( 336 -632 112 ) ( 336 -632 96 ) wwood1_7 -29.8445 -0 -0 0.707107 1
@@ -3667,14 +3667,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "342 -616 124"
 "angle" "135"
-"_tb_group" "1812"
+"_tb_group" "1966"
 }
 // entity 247
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1813"
+"_tb_id" "1967"
 // brush 0
 {
 ( 888 -608 96 ) ( 888 -608 112 ) ( 915.31370849898337 -635.31370849898303 112 ) wwood1_7 3.4491 -0 180 0.707107 -1
@@ -3690,14 +3690,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "904 -614 124"
 "angle" "45"
-"_tb_group" "1813"
+"_tb_group" "1967"
 }
 // entity 249
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1814"
+"_tb_id" "1968"
 // brush 0
 {
 ( 1000 -720 96 ) ( 1000 -720 112 ) ( 1027.3137084989835 -747.31370849898303 112 ) wwood1_7 33.8411 -0 180 0.707107 -1
@@ -3713,14 +3713,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "1016 -726 124"
 "angle" "45"
-"_tb_group" "1814"
+"_tb_group" "1968"
 }
 // entity 251
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1815"
+"_tb_id" "1969"
 // brush 0
 {
 ( 200 -1304 96 ) ( 200 -1304 112 ) ( 227.31370849898337 -1331.313708498983 112 ) wwood1_7 -9.52985 -0 180 0.707107 -1
@@ -3736,14 +3736,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "216 -1310 124"
 "angle" "45"
-"_tb_group" "1815"
+"_tb_group" "1969"
 }
 // entity 253
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1816"
+"_tb_id" "1970"
 // brush 0
 {
 ( 312 -1416 96 ) ( 312 -1416 112 ) ( 339.31370849898349 -1443.313708498983 112 ) wwood1_7 -43.1379 -0 180 0.707107 -1
@@ -3759,14 +3759,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "328 -1422 124"
 "angle" "45"
-"_tb_group" "1816"
+"_tb_group" "1970"
 }
 // entity 255
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1817"
+"_tb_id" "1971"
 // brush 0
 {
 ( -1032 -1304 96 ) ( -1032 -1304 112 ) ( -1004.6862915010166 -1331.313708498983 112 ) wwood1_7 -23.8409 -0 180 0.707107 -1
@@ -3782,14 +3782,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-1016 -1310 124"
 "angle" "45"
-"_tb_group" "1817"
+"_tb_group" "1971"
 }
 // entity 257
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1818"
+"_tb_id" "1972"
 // brush 0
 {
 ( -920 -1416 96 ) ( -920 -1416 112 ) ( -892.68629150101651 -1443.313708498983 112 ) wwood1_7 -57.4491 -0 180 0.707107 -1
@@ -3805,14 +3805,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-904 -1422 124"
 "angle" "45"
-"_tb_group" "1818"
+"_tb_group" "1972"
 }
 // entity 259
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1819"
+"_tb_id" "1973"
 // brush 0
 {
 ( -1019.3137084989814 -732.68629150101333 112 ) ( -1008 -744 112 ) ( -1008 -744 96 ) wwood1_7 0.547485 -0 -0 0.707107 1
@@ -3828,14 +3828,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-1002 -728 124"
 "angle" "135"
-"_tb_group" "1819"
+"_tb_group" "1973"
 }
 // entity 261
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1820"
+"_tb_id" "1974"
 // brush 0
 {
 ( -907.31370849898144 -620.68629150101333 112 ) ( -896 -632 112 ) ( -896 -632 96 ) wwood1_7 -29.8445 -0 -0 0.707107 1
@@ -3851,14 +3851,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-890 -616 124"
 "angle" "135"
-"_tb_group" "1820"
+"_tb_group" "1974"
 }
 // entity 263
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1821"
+"_tb_id" "1975"
 // brush 0
 {
 ( -344 -608 96 ) ( -344 -608 112 ) ( -316.68629150101663 -635.31370849898303 112 ) wwood1_7 -10.862 -0 180 0.707107 -1
@@ -3874,14 +3874,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-328 -614 124"
 "angle" "45"
-"_tb_group" "1821"
+"_tb_group" "1975"
 }
 // entity 265
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1822"
+"_tb_id" "1976"
 // brush 0
 {
 ( -232 -720 96 ) ( -232 -720 112 ) ( -204.68629150101651 -747.31370849898303 112 ) wwood1_7 -44.4701 -0 180 0.707107 -1
@@ -3897,14 +3897,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-216 -726 124"
 "angle" "45"
-"_tb_group" "1822"
+"_tb_group" "1976"
 }
 // entity 267
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1823"
+"_tb_id" "1977"
 // brush 0
 {
 ( -219.31370849898144 -1316.6862915010133 112 ) ( -208 -1328 112 ) ( -208 -1328 96 ) wwood1_7 58.4482 -0 -0 0.707107 1
@@ -3920,14 +3920,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-202 -1312 124"
 "angle" "135"
-"_tb_group" "1823"
+"_tb_group" "1977"
 }
 // entity 269
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1824"
+"_tb_id" "1978"
 // brush 0
 {
 ( -347.31370849898144 -1444.6862915010133 112 ) ( -336 -1456 112 ) ( -336 -1456 96 ) wwood1_7 -16.5325 -0 -0 0.707107 1
@@ -3943,14 +3943,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-330 -1440 124"
 "angle" "135"
-"_tb_group" "1824"
+"_tb_group" "1978"
 }
 // entity 271
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1825"
+"_tb_id" "1979"
 // brush 0
 {
 ( -1656 -2744 96 ) ( -1656 -2744 112 ) ( -1628.6862915010165 -2771.313708498983 112 ) wwood1_7 -10.3103 -0 180 0.707107 -1
@@ -3966,14 +3966,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-1640 -2750 124"
 "angle" "45"
-"_tb_group" "1825"
+"_tb_group" "1979"
 }
 // entity 273
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1826"
+"_tb_id" "1980"
 // brush 0
 {
 ( -1544 -2856 96 ) ( -1544 -2856 112 ) ( -1516.6862915010165 -2883.313708498983 112 ) wwood1_7 20.0815 -0 180 0.707107 -1
@@ -3989,14 +3989,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-1528 -2862 124"
 "angle" "45"
-"_tb_group" "1826"
+"_tb_group" "1980"
 }
 // entity 275
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1827"
+"_tb_id" "1981"
 // brush 0
 {
 ( -1643.3137084989814 -2172.6862915010133 112 ) ( -1632 -2184 112 ) ( -1632 -2184 96 ) wwood1_7 -10.9849 -0 -0 0.707107 1
@@ -4012,14 +4012,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-1626 -2168 124"
 "angle" "135"
-"_tb_group" "1827"
+"_tb_group" "1981"
 }
 // entity 277
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1828"
+"_tb_id" "1982"
 // brush 0
 {
 ( -1531.3137084989814 -2060.6862915010133 112 ) ( -1520 -2072 112 ) ( -1520 -2072 96 ) wwood1_7 22.623 -0 -0 0.707107 1
@@ -4035,14 +4035,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-1514 -2056 124"
 "angle" "135"
-"_tb_group" "1828"
+"_tb_group" "1982"
 }
 // entity 279
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1829"
+"_tb_id" "1983"
 // brush 0
 {
 ( -968 -2048 96 ) ( -968 -2048 112 ) ( -940.68629150101651 -2075.313708498983 112 ) wwood1_7 2.6687 -0 180 0.707107 -1
@@ -4058,14 +4058,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-952 -2054 124"
 "angle" "45"
-"_tb_group" "1829"
+"_tb_group" "1983"
 }
 // entity 281
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1830"
+"_tb_id" "1984"
 // brush 0
 {
 ( -856 -2160 96 ) ( -856 -2160 112 ) ( -828.68629150101651 -2187.313708498983 112 ) wwood1_7 33.0605 -0 180 0.707107 -1
@@ -4081,14 +4081,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-840 -2166 124"
 "angle" "45"
-"_tb_group" "1830"
+"_tb_group" "1984"
 }
 // entity 283
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1831"
+"_tb_id" "1985"
 // brush 0
 {
 ( -843.31370849898144 -2756.6862915010133 112 ) ( -832 -2768 112 ) ( -832 -2768 96 ) wwood1_7 46.9158 -0 -0 0.707107 1
@@ -4104,14 +4104,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-826 -2752 124"
 "angle" "135"
-"_tb_group" "1831"
+"_tb_group" "1985"
 }
 // entity 285
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1832"
+"_tb_id" "1986"
 // brush 0
 {
 ( -971.31370849898144 -2884.6862915010133 112 ) ( -960 -2896 112 ) ( -960 -2896 96 ) wwood1_7 35.9351 -0 -0 0.707107 1
@@ -4127,14 +4127,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-954 -2880 124"
 "angle" "135"
-"_tb_group" "1832"
+"_tb_group" "1986"
 }
 // entity 287
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1833"
+"_tb_id" "1987"
 // brush 0
 {
 ( -424 -2744 96 ) ( -424 -2744 112 ) ( -396.68629150101651 -2771.313708498983 112 ) wwood1_7 -59.9991 -0 180 0.707107 -1
@@ -4150,14 +4150,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-408 -2750 124"
 "angle" "45"
-"_tb_group" "1833"
+"_tb_group" "1987"
 }
 // entity 289
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1834"
+"_tb_id" "1988"
 // brush 0
 {
 ( -312 -2856 96 ) ( -312 -2856 112 ) ( -284.68629150101651 -2883.313708498983 112 ) wwood1_7 -29.6072 -0 180 0.707107 -1
@@ -4173,14 +4173,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-296 -2862 124"
 "angle" "45"
-"_tb_group" "1834"
+"_tb_group" "1988"
 }
 // entity 291
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1835"
+"_tb_id" "1989"
 // brush 0
 {
 ( -411.31370849898144 -2172.6862915010133 112 ) ( -400 -2184 112 ) ( -400 -2184 96 ) wwood1_7 -10.9849 -0 -0 0.707107 1
@@ -4196,14 +4196,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-394 -2168 124"
 "angle" "135"
-"_tb_group" "1835"
+"_tb_group" "1989"
 }
 // entity 293
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1836"
+"_tb_id" "1990"
 // brush 0
 {
 ( -299.31370849898144 -2060.6862915010133 112 ) ( -288 -2072 112 ) ( -288 -2072 96 ) wwood1_7 22.623 -0 -0 0.707107 1
@@ -4219,14 +4219,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "-282 -2056 124"
 "angle" "135"
-"_tb_group" "1836"
+"_tb_group" "1990"
 }
 // entity 295
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1837"
+"_tb_id" "1991"
 // brush 0
 {
 ( 264 -2048 96 ) ( 264 -2048 112 ) ( 291.31370849898349 -2075.313708498983 112 ) wwood1_7 -47.0202 -0 180 0.707107 -1
@@ -4242,14 +4242,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "280 -2054 124"
 "angle" "45"
-"_tb_group" "1837"
+"_tb_group" "1991"
 }
 // entity 297
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1838"
+"_tb_id" "1992"
 // brush 0
 {
 ( 376 -2160 96 ) ( 376 -2160 112 ) ( 403.31370849898349 -2187.313708498983 112 ) wwood1_7 -16.6282 -0 180 0.707107 -1
@@ -4265,14 +4265,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "392 -2166 124"
 "angle" "45"
-"_tb_group" "1838"
+"_tb_group" "1992"
 }
 // entity 299
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1839"
+"_tb_id" "1993"
 // brush 0
 {
 ( 388.68629150101856 -2756.6862915010133 112 ) ( 400 -2768 112 ) ( 400 -2768 96 ) wwood1_7 46.9158 -0 -0 0.707107 1
@@ -4288,14 +4288,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "406 -2752 124"
 "angle" "135"
-"_tb_group" "1839"
+"_tb_group" "1993"
 }
 // entity 301
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1840"
+"_tb_id" "1994"
 // brush 0
 {
 ( 260.68629150101856 -2884.6862915010133 112 ) ( 272 -2896 112 ) ( 272 -2896 96 ) wwood1_7 35.9351 -0 -0 0.707107 1
@@ -4311,14 +4311,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "278 -2880 124"
 "angle" "135"
-"_tb_group" "1840"
+"_tb_group" "1994"
 }
 // entity 303
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1841"
+"_tb_id" "1995"
 // brush 0
 {
 ( 808 -2744 96 ) ( 808 -2744 112 ) ( 835.31370849898349 -2771.313708498983 112 ) wwood1_7 -45.688 -0 180 0.707107 -1
@@ -4334,14 +4334,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "824 -2750 124"
 "angle" "45"
-"_tb_group" "1841"
+"_tb_group" "1995"
 }
 // entity 305
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1842"
+"_tb_id" "1996"
 // brush 0
 {
 ( 920 -2856 96 ) ( 920 -2856 112 ) ( 947.31370849898349 -2883.313708498983 112 ) wwood1_7 -15.296 -0 180 0.707107 -1
@@ -4357,14 +4357,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "936 -2862 124"
 "angle" "45"
-"_tb_group" "1842"
+"_tb_group" "1996"
 }
 // entity 307
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1843"
+"_tb_id" "1997"
 // brush 0
 {
 ( 820.68629150101856 -2172.6862915010133 112 ) ( 832 -2184 112 ) ( 832 -2184 96 ) wwood1_7 -10.9849 -0 -0 0.707107 1
@@ -4380,14 +4380,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "838 -2168 124"
 "angle" "135"
-"_tb_group" "1843"
+"_tb_group" "1997"
 }
 // entity 309
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1844"
+"_tb_id" "1998"
 // brush 0
 {
 ( 932.68629150101856 -2060.6862915010133 112 ) ( 944 -2072 112 ) ( 944 -2072 96 ) wwood1_7 22.623 -0 -0 0.707107 1
@@ -4403,14 +4403,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "950 -2056 124"
 "angle" "135"
-"_tb_group" "1844"
+"_tb_group" "1998"
 }
 // entity 311
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1845"
+"_tb_id" "1999"
 // brush 0
 {
 ( 1496 -2048 96 ) ( 1496 -2048 112 ) ( 1523.3137084989835 -2075.313708498983 112 ) wwood1_7 -32.709 -0 180 0.707107 -1
@@ -4426,14 +4426,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "1512 -2054 124"
 "angle" "45"
-"_tb_group" "1845"
+"_tb_group" "1999"
 }
 // entity 313
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1846"
+"_tb_id" "2000"
 // brush 0
 {
 ( 1608 -2160 96 ) ( 1608 -2160 112 ) ( 1635.3137084989835 -2187.313708498983 112 ) wwood1_7 -2.31714 -0 180 0.707107 -1
@@ -4449,14 +4449,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "1624 -2166 124"
 "angle" "45"
-"_tb_group" "1846"
+"_tb_group" "2000"
 }
 // entity 315
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1847"
+"_tb_id" "2001"
 // brush 0
 {
 ( 1620.6862915010186 -2756.6862915010133 112 ) ( 1632 -2768 112 ) ( 1632 -2768 96 ) wwood1_7 46.9158 -0 -0 0.707107 1
@@ -4472,14 +4472,14 @@
 "classname" "light_torch_small_walltorch"
 "origin" "1638 -2752 124"
 "angle" "135"
-"_tb_group" "1847"
+"_tb_group" "2001"
 }
 // entity 317
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Light"
-"_tb_id" "1848"
+"_tb_id" "2002"
 // brush 0
 {
 ( 1492.6862915010186 -2884.6862915010133 112 ) ( 1504 -2896 112 ) ( 1504 -2896 96 ) wwood1_7 35.9351 -0 -0 0.707107 1
@@ -4495,7 +4495,7 @@
 "classname" "light_torch_small_walltorch"
 "origin" "1510 -2880 124"
 "angle" "135"
-"_tb_group" "1848"
+"_tb_group" "2002"
 }
 // entity 319
 {
